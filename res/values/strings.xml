@@ -1,0 +1,47 @@
+<resources>
+    <string name="openDrawer">open bitch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="closeDrawer">close bitch</string>
+    <string name="app_name">App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About Autor</string>
+    <string name="layuot_about_autor">I am a developer in Android and I like to travel , to eat , to sleep some time , to ride bike , to write code</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="menu_add_notification">Add_new_notification</string>
+    <string name="menu_perposes">Perposes</string>
+    <string name="zodiac_layout">"Leo (♌) is the fifth astrological sign of the zodiac, originating from the constellation of Leo.\n
+        It comes after Cancer and before Virgo. It spans the 120-150th degree of the Tropical zodiac, between 125.25 and 152.75 degree
+        of celestial longitude. \n Under the tropical zodiac, the Sun transits this area on average between July 22 and August 21 each
+        year,and under the sidereal zodiac, the Sun currently transits this area  from approximately August 16 to September 15."</string>
+    <string name="Sleep_inf">"When you’re scrambling to meet the demands of a busy schedule, cutting back on sleep may seem like the only answer.
+        Sacrificing an hour or two of rest in order to get more done may sound like a reasonable trade-off. But the truth is that even minimal sleep
+        loss takes a toll on your mood, energy, mental sharpness, and ability to handle stress. And over the long-term, chronic sleep loss wreaks havoc on your health.\n
+By understanding your nightly sleep needs and what you can do to bounce back from chronic sleep loss, you can finally get on a healthy sleep schedule. \n
+Sleep is a necessity, not a luxury\n
+The quality of your sleep directly affects the quality of your waking life, including your productivity, emotional balance, creativity, physical vitality, and
+        even your weight. No other activity delivers so many benefits with so little effort! \n
+Sleep isn’t merely a time when your body shuts off. While you rest, your brain stays busy, overseeing a wide variety of biological maintenance that keeps your body
+        running in top condition, preparing you for the day ahead. Without enough hours of restorative sleep, you won’t be able to work, learn, create, and communicate
+        at a level even close to your true potential. Regularly skimp on “service” and you’re headed for a major mental and physical breakdown. \n
+The good news is that you don't have to choose between health and productivity. As you start getting the sleep you need, your energy and efficiency will go up. In
+        fact, you're likely to find that you actually get more done during the day than when you were skimping on shuteye. \n"</string>
+<string name="title_tool_bar">"What do we need on a trip : "</string>
+    <string name="travel">Подорожуй</string>
+    <string name="evolution">Розвивайся</string>
+    <string name="perpose">Став цілі</string>
+    <string name="try_all">Пробуй</string>
+    <string name="love">Кохай</string>
+    <string name="sens_of_life">Шукай сенсу</string>
+    <string name="alberensztejn">Мы все рождаемся гениями, но жизнь исправляет это. «Все мы гении. Но если вы будете судить рыбу по ее способности лазать по деревьям, то она проживет всю жизнь, считая себя дурой»</string>
+    <string name="new_navigation_view">new_navigation_view</string>
+    <string name="title_navigation_group">Navogation View</string>
+    <string name="line">____________________________</string>
+    <string name="english_menu">English</string>
+    <string name="English_fragment">English+Fragment</string>
+    <string name="old_navigation_view">Navigation View</string>
+    <string name="TabLayoutmenu">TabLayout</string>
+</resources>
+

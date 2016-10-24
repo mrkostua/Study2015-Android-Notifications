@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#82e991</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_black">#000000</color>
+    <color name="light_phone">#ff0000</color>
+    <color name="colorbg_toolbar">#c9d485</color>
+    <color name="colorbg_navigationview">#77bcb4</color>
+</resources>

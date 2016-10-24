@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+        <item android:id="@+id/menu_icon_trip1"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:onClick="menuSettings"
+        android:icon="@drawable/support24" />
+
+    <item android:id="@+id/menu_icon_trip2"
+        android:title="@string/action_about"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        android:onClick="menuAboutAutor"
+        android:icon="@drawable/literature48" />
+
+    <item android:id="@+id/menu_icon_trip3"
+        android:title="@string/menu_perposes"
+        android:orderInCategory="3"
+        app:showAsAction="always"
+        android:onClick="menuPurposes"
+        android:icon="@drawable/positivedynamic24" />
+
+        <!--<item android:id="@+id/menu_icon_trip4"-->
+        <!--android:title="@string/menu_perposes"-->
+        <!--android:orderInCategory="2"-->
+        <!--app:showAsAction="always"-->
+        <!--android:onClick="menuPurposes"-->
+        <!--android:icon="@drawable/tent48" />-->
+
+    <item android:id="@+id/menu_icon_trip5"
+        android:title="@string/menu_add_notification"
+        android:icon="@drawable/messagefilled48"
+        android:onClick="menuNewNotification"
+        android:orderInCategory="0"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
+

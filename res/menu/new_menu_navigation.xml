@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+<item android:title="@string/english_menu"/>
+
+        <item android:id="@+id/English_Fragment"
+            android:title="@string/English_fragment"
+            android:icon="@drawable/literature48"
+            android:orderInCategory="1"
+            android:showAsAction="always"
+            android:onClick="English_Fragment">
+        </item>
+    </group>
+
+</menu>
